@@ -1,1 +1,2 @@
 Adding file to test git fetch command
+updating fetch
